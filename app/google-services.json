@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "571255448128",
+    "project_id": "a-reader-50506",
+    "storage_bucket": "a-reader-50506.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:571255448128:android:ab72c40ba4c82bf0a375a5",
+        "android_client_info": {
+          "package_name": "com.bawp.areader"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVQX8aI912RgWG6XCzQ__8IZTae_6IlAc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
